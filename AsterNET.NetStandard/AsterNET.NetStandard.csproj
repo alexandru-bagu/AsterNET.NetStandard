@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <Description>asterNet library to support net Standard 2.0
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>asterNet library to support net Standard 2.1
 </Description>
     <Copyright></Copyright>
     <PackageProjectUrl>rebati.net/projects/asternet</PackageProjectUrl>
